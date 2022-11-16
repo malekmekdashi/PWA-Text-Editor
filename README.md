@@ -22,13 +22,20 @@
   
 
   ## Installation Instructions
-  
+  `npm install`
+  `npm run build`
+  `npm run start`
 
   ## Usage
   
 
   ## Test
-  
+  ![image](https://user-images.githubusercontent.com/108254449/202116100-abc5e4ab-bf42-4b32-8734-72b0e1537b9e.png)
+  ![image](https://user-images.githubusercontent.com/108254449/202116149-b442214b-e3ba-410b-9d51-824652a84d76.png)
+  ![image](https://user-images.githubusercontent.com/108254449/202116306-0c205fc1-7e44-4b8a-81bd-8e952efd98a4.png)
+  ![image](https://user-images.githubusercontent.com/108254449/202116516-6e97bac7-7d09-48a4-a7e3-3eef690c6c97.png)
+  ![image](https://user-images.githubusercontent.com/108254449/202116622-31e892f7-2a14-4dc0-95b9-b23ad1a81db3.png)
+
 
   ## Contact Information
   Github: https://github.com/malekmekdashi
